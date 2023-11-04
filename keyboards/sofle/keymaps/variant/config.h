@@ -1,6 +1,5 @@
 #pragma once
 
-#define TAPPING_TERM 200
 #define RETRO_TAPPING
 
 /* The way how "handedness" is decided (which half is which),
